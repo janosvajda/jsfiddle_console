@@ -1,3 +1,4 @@
+/**simple jsFiddle console.log()*//
 var consoleLineTemplate = "<p style=\"margin: 1em 0 0;margin: 2px;\" class=\"console-log-template\"></p>";
     
 console = {
