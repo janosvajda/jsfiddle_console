@@ -6,5 +6,7 @@ It can recognize string, array & object types.
 
 Example: console.log('hello');
 
+Author: Janos Vajda
+
 License: :-)
 
